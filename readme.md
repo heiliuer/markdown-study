@@ -37,7 +37,18 @@ _我是斜体_
 
 ![图片看不到](escape.jpg)
 
-`print("Hello!")`
+`print("Hello!");// 单行代码`
+
+```javascript
+   // 多行js代码
+   console.log('hello1');
+   console.log('hello2');
+```
+```html
+   <!--多行html代码-->
+   <h1>hello1</h1>
+   <h1>hello2</h1>
+```
 
 #### 表格
 <table>
